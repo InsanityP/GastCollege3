@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace GastCollege3.Models
 {
-    public class Category
+    public class Aanbieder
     {
-        public int CategoryId { get; set; }
+        public int AanbiederId { get; set; }
         public string Name { get; set; }
     }
 }
